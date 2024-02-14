@@ -19,22 +19,23 @@
 4. Open the command palette
 5. Open the theme selector and search for ZedSpace
 6. Enjoy 🚀
+
+
 &nbsp;
 ## 🚀 Created by
 
 🧑🏼‍💻 [Bruno Garcia](https://github.com/brunowilliang)
 
 &nbsp;
-##
 
-### 🚀 Follow me
-[Twiiter](https://twitter.com/Brunowgarcia)
+## 🚀 Follow me
+[Twitter](https://twitter.com/Brunowgarcia)
 &nbsp;
-[linkedin](https://linkedin.com/in/brunowilliang)
+[LinkedIn](https://linkedin.com/in/brunowilliang)
 &nbsp;
 [Instagram](https://www.instagram.com/brunowilliang)
 
-##
+&nbsp;
 
 <p align="center">
 	Copyright &copy; 2024-present <a href="https://github.com/brunowilliang" target="_blank">Bruno Garcia</a>
