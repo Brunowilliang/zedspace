@@ -1,0 +1,13 @@
+{
+  "name": "ZedSpace",
+  "version": "0.0.1",
+  "authors": [
+    "Bruno Garcia <eu@brunogarcia.com>",
+    "Twitter: @brunowgarcia"
+  ],
+  "description": "ZedSpace dark theme for Zed",
+  "repository": "https://github.com/Brunowilliang/zedspace",
+  "themes": {
+    "ZedSpace": "themes/zedspace.json"
+  }
+}

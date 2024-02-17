@@ -5,7 +5,7 @@
 ![ZedSpace Theme for Zed](preview.png)
 
 
-## Usage
+<!-- ## Usage
 1. Create the theme folder if it doesn't already exist:
 	```bash
 	mkdir -p ~/.config/zed/themes/
@@ -19,7 +19,7 @@
 4. Open the command palette
 5. Open the theme selector and search for ZedSpace
 6. Enjoy 🚀
-
+ -->
 
 &nbsp;
 ## 🚀 Created by
