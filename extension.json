@@ -2,10 +2,11 @@
   "name": "ZedSpace",
   "version": "0.0.1",
   "authors": [
-    "Bruno Garcia <eu@brunogarcia.com>",
-    "Twitter: @brunowgarcia"
+    "Bruno Garcia",
+    "Twitter: @brunowgarcia",
+    "Email: eu@brunowillian.com"
   ],
-  "description": "ZedSpace dark theme for Zed",
+  "description": "Theme inspired by Rocketseat's Omni, offers an elegant and focused interface for the Zed editor.",
   "repository": "https://github.com/Brunowilliang/zedspace",
   "themes": {
     "ZedSpace": "themes/zedspace.json"
